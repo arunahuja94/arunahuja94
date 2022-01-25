@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=arunahuja94" alt="arunahuja94" /> </p>
 
-- 🌱 I’m currently learning **React, Jest, Data Structures**
+- 🌱 I’m currently learning **GraphQL, Jest, Data Structures**
 
-- 💬 Ask me about **React Native, JavaScript, PHP, jQuery, MySQL, html, CSS, Ajax, JSON**
+- 💬 Ask me about **React Native, JavaScript, React, PHP, jQuery, MySQL, html, CSS, Ajax, JSON**
 
 - 📫 How to reach me **arunahuja94@gmail.com**
 
