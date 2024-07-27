@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GraphQL, Jest, Data Structures**
 
-- 💬 Ask me about **React Native, JavaScript, React, PHP, jQuery, MySQL, html, CSS, Ajax, JSON**
+- 💬 Ask me about **React Native, React, Next.js, TypeScript, JavaScript, jQuery, html, CSS, PHP, MySQL, Ajax, JSON**
 
 - 📫 How to reach me **arunahuja94@gmail.com**
 
